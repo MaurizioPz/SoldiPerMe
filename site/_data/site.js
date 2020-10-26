@@ -1,34 +1,34 @@
 module.exports = {
-  name: "Supermaya",
+  name: "Soldi per me",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
-  url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
+    "Un blog .",
+  url: "https://soldiperme.netlify.app/",
+  authorEmail: "maurizio@soldiper.me",
+  authorHandle: "@mauriziopz",
+  authorName: "Maurizio",
   postsPerPage: 4,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
-      background: "white",
-      text: "black",
-      highlight: "#666",
+      background: "#ff",
+      text: "#240115",
+      highlight: "#EC368D",
     },
     secondary: {
-      background: "black",
-      text: "white",
-      highlight: "#666",
+      background: "#240115",
+      text: "#fff",
+      highlight: "#EC368D",
     },
   },
 
   keystone: {
-    comments: true,
-    bookmarks: true,
-    claps: true,
-    login: true,
+    comments: false,
+    bookmarks: false,
+    claps: false,
+    login: false,
   },
   // Critical CSS results in much slower build times and uses a lot of system resources
   // turn on in production :)
   // See `site/transforms/critical-css-transform.js` for more details
-  criticalCSS: false,
+  criticalCSS: true,
 };

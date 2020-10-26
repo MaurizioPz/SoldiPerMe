@@ -17,5 +17,13 @@
     "statusBar.border": "#f5e728",
     "titleBar.border": "#f5e728"
   },
-  "peacock.color": "#f5e728"
+  "peacock.color": "#f5e728",
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
 }
