@@ -10,14 +10,14 @@ module.exports = {
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
-      background: "#ff",
-      text: "#240115",
-      highlight: "#EC368D",
+      background: "#222831",
+      text: "#eeeeee",
+      highlight: "#fd7014",
     },
     secondary: {
-      background: "#240115",
-      text: "#fff",
-      highlight: "#EC368D",
+      background: "#eeeeee",
+      text: "#222831",
+      highlight: "#fd7014",
     },
   },
 
@@ -30,5 +30,5 @@ module.exports = {
   // Critical CSS results in much slower build times and uses a lot of system resources
   // turn on in production :)
   // See `site/transforms/critical-css-transform.js` for more details
-  criticalCSS: true,
+  criticalCSS: false,
 };

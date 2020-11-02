@@ -59,6 +59,7 @@ a {
 a:focus,
 a:hover {
   text-decoration: none;
+  color: var(--THEME_HIGHLIGHT, #fff);
 }
 
 input::-webkit-input-placeholder,
