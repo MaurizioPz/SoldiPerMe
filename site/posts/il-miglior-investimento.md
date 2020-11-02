@@ -10,7 +10,7 @@ tags:
 C'è una categoria di investimenti che alla lunga da sempre il miglior risultato.
 A dirla tutta non è un gran segreto, credo che tutti in pratica abbiano già sentito, almeno una volta, quello che sto per dire. Il fatto è che il resto del mondo spesso agisce come se non credesse in queste parole, quindi vale la pena ripeterle.
 
-    I migliori investimenti sono sempre in te stesso
+> I migliori investimenti sono sempre in te stesso
 
 C'è poco da fare, sembra una banalità, sembra scontato ed inutile ripeterlo, ma non c'è niente da fare... **è vero**. Per quanto tu possa essere un mago della finanza (*non lo sei*) che sa sempre quali sono le azioni da acquistare e quali invece vanno evitate (*non lo sai*).  
 **Investire in te stesso avrà sempre un rendimento maggiore.**
