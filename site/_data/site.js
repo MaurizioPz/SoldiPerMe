@@ -1,9 +1,9 @@
 module.exports = {
-  name: "Soldi per me",
+  name: "Ottimizzazi.one",
   shortDesc:
-    "Un blog .",
-  url: "https://soldiperme.netlify.app/",
-  authorEmail: "maurizio@soldiper.me",
+    "Un blog che parla di finanza e vita.",
+  url: "https://ottimizzazi.one/",
+  authorEmail: "maurizio@ottimizzazi.one",
   authorHandle: "@mauriziopz",
   authorName: "Maurizio",
   postsPerPage: 4,

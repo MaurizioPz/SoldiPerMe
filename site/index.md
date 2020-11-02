@@ -1,9 +1,9 @@
 ---
 layout: "layouts/home.njk"
-title: Plannr.dev
-postsHeading: Latest posts
-allPostsText: See all posts
+title: Ottimizzazi.one
+postsHeading: Ultimi posts
+allPostsText: Guarda tutti i post
 socialImage: ""
 ---
 
-A blog dedicted to planning for software projects.
+Un blog che parla di finanza e vita
