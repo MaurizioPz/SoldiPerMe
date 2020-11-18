@@ -1,6 +1,6 @@
 ---
 title: Il cambiamento è necessario
-date: "2020-11-12"
+date: "2020-11-18"
 description: "molti ne hanno paura, ma è l'unico modo di migliorarsi."
 tags:
   - cambiamento
